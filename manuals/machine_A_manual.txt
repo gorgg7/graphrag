@@ -1,0 +1,7 @@
+To start the machine, press the green power button on the top panel.
+
+To change the screen, open the back panel carefully using a screwdriver.
+
+After removing the screen, clean the connectors before installing a new one.
+
+To shut down the machine, hold the power button for 3 seconds.
