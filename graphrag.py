@@ -73,7 +73,7 @@ def retrieve_context(query, top_k=3):
 
 
 client = OpenAI(
-    api_key="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",
+    api_key="",
     base_url="https://openrouter.ai/api/v1"
 )
 
