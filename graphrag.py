@@ -14,10 +14,10 @@ manual_folder = "manuals"
 
 if not os.path.exists(manual_folder):
     os.makedirs(manual_folder)
-    print(f"📁 Folder '{manual_folder}' created! Put your manuals (.txt) inside it then rerun the script.")
+    print(f" Folder '{manual_folder}' created! Put your manuals (.txt) inside it then rerun the script.")
     exit()
 
-print(f"📚 Loading manuals from '{manual_folder}'...")
+print(f" Loading manuals from '{manual_folder}'...")
 
 for filename in os.listdir(manual_folder):
     if filename.endswith(".txt"):
